@@ -16,12 +16,15 @@ ABSTAR<br/>USACO | STAY
 ## PROGRAM NAME: ride
 
 This means that you fill in your header with:
+
 PROG: ride
+
 **WARNING:** You must have 'ride' in this field or the wrong test data (or no test data) will be used.
 
 ## INPUT FORMAT
 
 Line 1:	An upper case character string of length 1..6 that is the name of the comet.
+
 Line 2:	An upper case character string of length 1..6 that is the name of the group.
 
 **NOTE:** The input file has a newline at the end of each line but does not have a "return". Sometimes, programmers code for the Windows paradigm of "return" followed by "newline"; don't do that! Use simple input routines like "readln" (for Pascal) and, for C/C++, "fscanf" and "fid>>string".
